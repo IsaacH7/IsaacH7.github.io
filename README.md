@@ -1,6 +1,6 @@
 # Dataset 
 The data set I took interest in is the consumption of energy around the world. Due to how the effects of climate change has brought upon the world, clean and reusable energy has become more and more important. This dataset shows the types of energy being consumed, as well as showing how the world is sharing energy. This data set could be applicable when it comes to researching which country is consuming the most energy as well as the type of energy they are consuming the most, which in turn allows users to analyze cleaner and reusable energy solution to that country.  
-[Data Set of World Energy Consumption](https://datacommons.org/explore#q=What%20is%20the%20solar%20energy%20consumption%20around%20the%20world%3F
+[Data Set of World Energy Consumption](https://datacommons.org/explore#q=What%20is%20the%20solar%20energy%20consumption%20around%20the%20world%3F)
 
 # Data Science Book
 ## Book: [Disruptive Possibilities: How Big Data Changes Everything](https://learning.oreilly.com/library/view/disruptive-possibilities-how/9781449368999/?sso_link=yes&sso_link_from=sdsu-edu)
